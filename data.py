@@ -1,1 +1,1 @@
-mail = dict(username='ksu.alekss@yandex.ru', password='QaE-Kzk-9EX-i8g', firstname='Ksenia', lastname='Alekseeva', friend='dfhbfgisdhgf')
+mail = dict(username='ksu.alekss@yandex.ru', password='QaE-Kzk-9EX-i8g', firstname='Ksenia', lastname='Alekseeva', email='ksu.alekss@yandex.ru')
